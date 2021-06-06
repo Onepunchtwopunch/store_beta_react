@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "КРОССОВКИ ДЛЯ БЕГА ULTRABOOST 21 PRIMEBLUE",
+      "price": 15999,
+      "description": "Понятие 'лучший' не статично. Когда мы впервые запустили adidas Ultraboost, это были лучшие беговые кроссовки в нашей истории. С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий верх adidas Primeknit+ и на 6% больше капсул Boost в подошве. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях стопы.",
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/d7b701392efc440db995ac840136d86f_9366/Krossovki_dlya_bega_Ultraboost_21_Primeblue_sinij_FX7729_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/31fa68129df04c81971fac840136f5df_9366/Krossovki_dlya_bega_Ultraboost_21_Primeblue_sinij_FX7729_05_standard.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "КРОССОВКИ ZX 1K BOOST",
+      "price": 5999,
+      "description": "Когда ты заряжен и активирован, ничто не сможет встать у тебя на пути. По крайней мере, ничто НЕ ДОЛЖНО стоять на твоем пути. Комфорт ― ключ к успеху, и эти кроссовки adidas ZX 1K Boost наполнены им, благодаря промежуточной подошве, которая состоит наполовину из Boost, наполовину из ЭВА. Так что во время прогулки ты не будешь считать метры до дома. Ты будешь просто наслаждаться городскими улицами.",
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/14f3ba9b8b0e49e68c4bac3d00ebe218_9366/Krossovki_ZX_1K_Boost_chernyj_FY5649_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/b7ded261f0414f489ad9ac3d00ec07a0_9366/Krossovki_ZX_1K_Boost_chernyj_FY5649_05_standard.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "КРОССОВКИ ZX 2K BOOST FUTURESHELL",
+      "price": 12999,
+      "description": "Встречай будущее в этих кроссовках adidas ZX 2K Boost. Модель в стиле ретро-техно вдохновлена беговой обувью 80-х. Верх из сетки и термополиуретана представлен в новых цветах и отдает дань уважения инновационному духу ZX. Половина промежуточной подошвы Boost скрыта полупрозрачным пяточным каркасом для дополнительного комфорта и поддержки.",
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/298a46a6fbc347f8ad85acbc00fdb98f_9366/Krossovki_ZX_2K_Boost_Futureshell_belyj_G55509_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/98cb4f3e9dd6438a9875acbc00fdd5d2_9366/Krossovki_ZX_2K_Boost_Futureshell_belyj_G55509_05_standard.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "СКАЛЬНЫЕ ТУФЛИ FIVE TEN HIANGLE PRO COMPETITION",
+      "price": 13999,
+      "description": "Скальные туфли Hiangle Pro переосмысливают классический силуэт оригинальной модели Hiangle с помощью бесшовной резиновой подошвы, которая оборачивается вокруг пальцев ног, чтобы обеспечить максимальный контакт с поверхностью.",
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/a50bf634157248c99dbcac02007a8d9f_9366/Skalnye_tufli_Five_Ten_Hiangle_Pro_Competition_chernyj_FV4744_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/18556e5bfa6d4438b363ac02007ab2a4_9366/Skalnye_tufli_Five_Ten_Hiangle_Pro_Competition_chernyj_FV4744_05_standard.jpg"
+      ]
+    },
+    {
+      "title": "test",
+      "price": "898989",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/4811a18977b545b68e9dac7500f45896_9366/Krossovki_ZX_1K_Boost_belyj_H69037_01_standard.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "title": "test_test",
+      "price": "858585",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/042a0a1a79604215bb46ac0200b47690_9366/Krossovki_ZX_1K_Boost_chernyj_H68721_06_standard.jpg"
+      ],
+      "id": 6
+    },
+    {
+      "title": "test",
+      "price": "9666",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "images": [
+        "https://icdn.lenta.ru/images/2020/08/12/16/20200812165856657/square_320_a39ff70754aba4d8b28de6453c4398e3.jpg"
+      ],
+      "id": 7
+    }
+  ]
+}
